@@ -1,0 +1,26 @@
+
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    width: 20px;
+    height: 20px;
+    border: solid black 1px;
+    justify-content: center;
+    margin: auto;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.blocks {
+    width: 220px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
