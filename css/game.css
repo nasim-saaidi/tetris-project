@@ -17,6 +17,17 @@
     background-color: blue;
 }
 
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: rgb(255, 204, 0);
+}
+
+.purple {
+    background-color: purple;
+}
 .blocks {
     width: 220px;
     height: 400px;
@@ -24,3 +35,4 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
